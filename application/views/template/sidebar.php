@@ -17,7 +17,7 @@
 
         <!-- sidebar menu: : style can be found in sidebar.less -->
         <ul class="sidebar-menu" data-widget="tree">
-            <li class="header">MIKROSTATOR MENU</li>
+            <li class="header">Bradford Broadband Manager Menu</li>
             <li><a hr ef="javascript:void(0)" id="menu-dashboard"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a>
             </li>
 
@@ -356,7 +356,7 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
                 <h4 class="modal-title" id="myModalLabel">
-                    About MIKROSTATOR
+                    About Bradford Broadband Manager
                 </h4>
             </div>
             <div class="modal-body">
@@ -369,7 +369,7 @@
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab_1_about">
-                            <h3>MIKROSTATOR V1</h3>
+                            <h3>Bradford Broadband Manager V1</h3>
                             <h4>Requirement</h4>
                             <ul>
                                 <li>PHP 5.6 or newer</li>
@@ -418,79 +418,14 @@
                         </div>
                         <!-- /.tab-pane -->
                         <div class="tab-pane" id="tab_2_about">
-                            <p>
-                                Ini adalah tempat anda, silakan bagikan pengalaman anda menggunakan
-                                MIKROSTATOR. Anda bisa berkontribusi sebagai penguji coba, mencari bug, membuat
-                                dokumentasi,
-                                review, dan sebagainya.
-                            </p>
-                            <p>
+                           <p>
                                 <i>
-                                    This is your place, please share your experience using MIKROSTATOR. You can
+                                    This is your place, please share your experience using Bradford Broadband Manager. You can
                                     contribute as a tester, debugger, create documentation, reviews, and so on.
                                 </i>
                             </p>
-                            <ul>
-                                <li>anda...</li>
-                                <li>teman anda...</li>
-                                <li>...</li>
-                            </ul>
                         </div>
                         <!-- /.tab-pane -->
-                        <div class="tab-pane" id="tab_3_about">
-                            <div class="row mb-3">
-                                <div class="col-md-12">
-                                    <h2>Are you happy?</h2>
-                                    <p>Please give me a cup of coffee :)</p>
-                                    <hr>
-                                    <p>Hello sedulur, jika anda merasa MIKROSTATOR
-                                        berguna, kami membuka donasi untuk membantu
-                                        MIKROSTATOR berkembang</p>
-
-                                </div>
-                                <div class="col-md-6 mb-3">
-                                    <div class="card bg-dark">
-                                        <div class="card-header">
-                                            <h5>Donasi via Paypal</h5>
-                                        </div>
-                                        <div class="card-body">
-                                            <p>Klik tombol di bawah untuk melakukan
-                                                donasi via paypal</p>
-                                            <form
-                                                    action="https://www.paypal.com/cgi-bin/webscr"
-                                                    method="post" target="_top">
-                                                <input type="hidden" name="cmd"
-                                                       value="_s-xclick"/>
-                                                <input type="hidden"
-                                                       name="hosted_button_id"
-                                                       value="EK6UWF45PVDR6"/>
-                                                <input type="image"
-                                                       src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
-                                                       border="0" name="submit" alt="PayPal
-                                                    - The
-                                                    safer, easier way to pay online!"/>
-                                                <img alt="" border="0"
-                                                     src="https://www.paypalobjects.com/id_ID/i/scr/pixel.gif"
-                                                     width="1" height="1"/>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 mb-3">
-                                    <div class="card bg-dark">
-                                        <div class="card-header">
-                                            <h5>Donasi via Transfer BANK</h5>
-                                        </div>
-                                        <div class="card-body">
-                                            <p>Anda bisa mengirimkan donasi melalui BANK
-                                                di bawah ini:</p>
-                                            <p>BANK: <b>BCA</b></p>
-                                            <p>No. Rek.: <b>8715-9843-81</b></p>
-                                            <p>a/n: <b>Richad Avianto</b></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <!-- /.tab-pane -->
                     </div>

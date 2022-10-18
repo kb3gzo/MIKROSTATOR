@@ -11,7 +11,7 @@ class Login extends CI_Controller {
     }
 
     public function index() {
-        $data['title'] = 'Login MIKROSTATOR';
+        $data['title'] = 'Login Bradford Broadband Manager';
 //         $data['website'] = $this->rich_model->get_general_config();
 
         $this->form_validation->set_rules('_username', 'Username', 'required');

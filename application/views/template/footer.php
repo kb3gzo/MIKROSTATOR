@@ -3,10 +3,9 @@
     <div class="pull-right hidden-xs">
         <b>Version</b> 1.3.0
     </div>
-    <strong>Copyright &copy; 2018 <a href="javascript:void(0)">MIKROSTATOR</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2022 <a href="javascript:void(0)">Bradford Broadband, LLC</a>.</strong> All rights reserved.
 </footer>
-
-<!-- ./wrapper -->
+!-- ./wrapper -->
 
 
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->

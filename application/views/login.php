@@ -36,7 +36,7 @@
 						<?php endif; ?>
 						<div class="row">
 							<div class="col-md-4" style="color: #ddd">
-								<h1 style="font-size: 2em;"><img src="<?php echo base_url('favicon.png') ?>" style="width:1.5em;"> MIKROSTATOR</h1>
+								<h1 style="font-size: 2em;"><img src="<?php echo base_url('favicon.png') ?>" style="width:1.5em;"> Bradford Broadband Manager</h1>
 								<p>Please Log in first to enter this app..</p>
 							</div>
 							<div class="col-md-8" style="color: #999;">
@@ -57,7 +57,7 @@
 					<!-- /.box-body -->
 					<div class="box-footer no-border" style="background-color: #333; color: #ddd;">
 						<strong>Copyright &copy; 2018
-							<a href="javascript:void(0)" class="text-green">MIKROSTATOR</a>.</strong> All rights reserved.
+							<a href="javascript:void(0)" class="text-green">Bradford Broadband Manager</a>.</strong> All rights reserved.
 					</div>
 					<!-- box-footer -->
 				</div>

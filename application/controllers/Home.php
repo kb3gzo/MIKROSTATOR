@@ -34,7 +34,7 @@ class Home extends Admin_Controller {
         //     //echo 'Caught exception: ',  $e->getMessage(), "\n";
         // }
 
-        $data['title'] = 'MIKROSTATOR';
+        $data['title'] = 'Bradford Broadband Manager';
 
         $this->load->view('template/header', $data);
         $this->load->view('template/sidebar', $data);

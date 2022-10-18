@@ -11,7 +11,7 @@ class Mikros extends CI_Controller {
     }
 
     public function index() {
-        $data['title'] = 'MIKROSTATOR';
+        $data['title'] = 'Bradford Broadband Manager';
         echo "kula robot :)";
     }
 
