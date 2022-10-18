@@ -48,7 +48,8 @@ class Mt_others extends Admin_Controller {
                 "count-only" => ''
             ));
             $count_hotspot_active = isset($array3) ? $array3 : 0;
-            $persen_hotspot_active = $count_hotspot_active / $count_hotspot_user * 100;
+#            $persen_hotspot_active = $count_hotspot_active / $count_hotspot_user * 100;
+            $persen_hotspot_active = 0;
             // get ip hotspot active.end
             ?>
 
